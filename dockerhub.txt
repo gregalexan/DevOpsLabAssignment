@@ -1,1 +1,1 @@
-DockerHub Repository: gregalexan/devopslabassignment
+DockerHub Repository: gregalexan/devlab

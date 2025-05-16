@@ -12,8 +12,9 @@ spec:
       labels:
         app: matches
     spec:
-      containers:
+      containers: 
         - name: matches
-          image: gregalexan/devopslabassignment:devops-lab
+          image: gregalexan/devlab:devlab-1
           ports:
             - containerPort: 80
+  

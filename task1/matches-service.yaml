@@ -6,6 +6,8 @@ metadata:
     app: matches
 spec:
   type: NodePort
+  selector:
+    app: matches
   ports:
     - protocol: TCP
       port: 80
